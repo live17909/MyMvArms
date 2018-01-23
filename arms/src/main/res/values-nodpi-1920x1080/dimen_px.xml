@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">32.0px</dimen>
+    <dimen name="activity_vertical_margin">32.0px</dimen>
+    <dimen name="fab_margin">32.0px</dimen>
+    <dimen name="common_navigator_height">90.0px</dimen>
+    <dimen name="navigator_margin_top">10.0px</dimen>
+    <dimen name="default_img_size">192.0px</dimen>
+    <dimen name="default_ui_height">96.0px</dimen>
+    <dimen name="default_button_height">80.0px</dimen>
+    <dimen name="default_button_margin_vertical">8.0px</dimen>
+    <dimen name="default_button_margin_horizontal">8.0px</dimen>
+    <dimen name="default_button_text_size">32.0px</dimen>
+    <dimen name="default_icon_size">64.0px</dimen>
+    <dimen name="default_icon_margin">16.0px</dimen>
+    <dimen name="default_ui_margin_very_small">4.0px</dimen>
+    <dimen name="default_ui_margin_small">8.0px</dimen>
+    <dimen name="default_ui_margin">16.0px</dimen>
+    <dimen name="default_ui_margin_medium">24.0px</dimen>
+    <dimen name="default_ui_margin_large">32.0px</dimen>
+    <dimen name="default_ui_margin_huge">64.0px</dimen>
+    <dimen name="text_size_micro">24.0px</dimen>
+    <dimen name="text_size_small">28.0px</dimen>
+    <dimen name="text_size_medium">36.0px</dimen>
+    <dimen name="text_size_large">44.0px</dimen>
+    <dimen name="text_size_huge">52.0px</dimen>
+</resources>
